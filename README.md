@@ -11,8 +11,9 @@ Un algoritmo es un conjunto finito, ordenado y definido de pasos, instrucciones 
 es Es una modificación de un software, aplicación o sistema operativo que se lanza para corregir errores, añadir nuevas funciones, mejorar el rendimiento y, muy importante, para reforzar la seguridad del sistema
 4. 🙃 **Decimal (Número decimal)**
    Sistema de numeración que utiliza diez dígitos del 0 al 9.
-5. ☺️ **Html**
-Son las siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertexto) y es el lenguaje estándar para crear y estructurar el contenido de las páginas web.
+5.✌️ **Binario**
+   Sistema de numeración que utiliza solo dos dígitos: 0 y 1.
+   
    
 
 
