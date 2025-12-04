@@ -27,4 +27,3 @@ Sistema de numeración que utiliza solo dos dígitos: 0 y 1.
 
 
 
-
